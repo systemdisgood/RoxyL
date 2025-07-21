@@ -1,2 +1,2 @@
 # RoxyL
-OpenCL like language compiler and assembler for simple NOR2 construction. Dedicated to a certain Roxy.
+OpenCL inspired language assembler for NOR2 massive parallel processing. Dedicated to a certain Roxy.
